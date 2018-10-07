@@ -96,6 +96,7 @@ Most fucking McDonalds employees are better at this than her. Get a grip, this i
 
 ## The ultimatum (Dupe time bb)
 Now for the thing you've all been waiting for!
+
 ![](https://cdn.discordapp.com/attachments/350509711562637316/495944862525292564/unknown.png)
 
 Firstly, I'd like to explain _why_ I went about things the way I did in regards to releasing a dupe bug. Initially, I can't lie, I was frustrated and also incredibly inebriated at the time of writing my initial post, however I'm not one to back down from something, as I would've thought EME would have realised from the [past RCE drama](#chat-rce-drama).
