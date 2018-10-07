@@ -109,14 +109,14 @@ Thirdly, it's easy to do. All you have to do is download a better version of the
 
 Whilst my way of communicating it was admittedly standoffish and could have been done better, I was trying to contact EME regarding a bug in their game, giving them ample time to simply send me a single DM on discord or an email so that I could contact them directly. Emails don't take long to send, and discord messages take even less. But, I knew they wouldn't reach out and contact me, just as they haven't in the past, even if the stakes were an apparent dupe bug.
 
-Their response? ["We're aware and going to take action. Thanks!"](https://i.gyazo.com/thumb/1200/5730046f34ed8fca2e0de4755da23524-png.jpg) I'm still waiting. No doubt it'll be something less than ideal, like a DMCA against my github or a ban off discord, rather than talking to me, keeping with the theme of them being absolute fucking clowns.
+Their response? ["We're aware and going to take action. Thanks!"](https://i.gyazo.com/thumb/1200/5730046f34ed8fca2e0de4755da23524-png.jpg) **I'm still waiting.** No doubt it'll be something less than ideal, like a DMCA against my github or a ban off discord, rather than talking to me, keeping with the theme of them being absolute fucking clowns.
 
-I ask you, in what other game could someone reach out to you multiple times about a bug, asking for communication, and then be ignored. In what other game would ANY of the shit talked about in this long ass document be acceptable.
+I ask you, in _what other game_ could someone reach out to you **multiple** times about a bug on multipe occasions, asking for communication, and then be ignored. In what other game would **ANY** of the shit talked about in this long ass document be acceptable.
 
 ## Closing
 I know the vast majority of you haven't read all of this, and I honestly don't blame you, I wouldn't either. There's a lot to read and very little of it makes any fucking sense.
 
-To EME: I give up. You've ruined one of my, and many other players, favourite game through your inability to learn from your past failures and inability to listen to what your community wants. You're killing an already dying game.
+To EME: I give up. You've ruined one of my, and many other players favourite game with your inability to learn from your past failures and inability to listen to what your community wants. You're killing an already dying game.
 
 For anyone playing on the NA version of the game still, move. **You as players give EME their money, you are paying them or have paid them to do this**. Things are only going to get **worse**, from here on out, just like they have been for years now. En Masse Entertainment wont listen to you, En Masse Entertainment wont do anything sensible. Give up, just like I have. It's hard, and starting fresh on a new server isn't a great time, but trust me when I say it'll be worth it in the long run.
 
